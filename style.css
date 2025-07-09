@@ -1,4 +1,5 @@
 div{
-    background-color: red;
+    background-color:azure;
     padding: 10px;
+    border: 10px solid black;
 }
